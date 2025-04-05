@@ -31,7 +31,7 @@ def main():
                 print("Error:", e)
         
         elif choice == '3':
-            print("Goodbye!")
+            print("Goodbye! ")
             
             break
         
